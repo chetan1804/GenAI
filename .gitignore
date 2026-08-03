@@ -32,8 +32,9 @@ coverage.xml
 htmlcov/
 dist/
 build/
-*.egg-info/
+*.egg-info/s
 *.log
+pyproject.toml
 
 # Node / frontend (if used later)
 node_modules/

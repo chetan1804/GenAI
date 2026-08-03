@@ -37,7 +37,7 @@ load_dotenv()
 # response = chat_model.invoke("write single line code to print hello world in python?")    
 # print(response.content)
 
-from langchain_mistralai import ChatMistralAI
-chat_model = ChatMistralAI(model="mistral-small-2603") # using init_chat_model to initialize the chat model with the specified model name
-response = chat_model.invoke("write single line code to print hello world in python?")    
-print(response.content)
+# from langchain_mistralai import ChatMistralAI
+# chat_model = ChatMistralAI(model="mistral-small-2603") # using init_chat_model to initialize the chat model with the specified model name
+# response = chat_model.invoke("write single line code to print hello world in python?")    
+# print(response.content)

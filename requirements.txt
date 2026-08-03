@@ -9,5 +9,6 @@ langchain-openai>=1.4.1
 mistralai>=2.8.0
 openai>=2.52.0
 python-dotenv>=1.2.2
+streamlit>=1.45.0
 torch>=2.13.0
 transformers>=5.14.1
