@@ -35,3 +35,4 @@ result = chain.invoke({"topic" : "please write a code of palindrome in python "}
 
 print(result['code'])
 print(result['explanation'])
+
